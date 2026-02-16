@@ -76,6 +76,115 @@ The dashboard delivers a **360-degree customer view**, helping banks:
 
 This project demonstrates strong capabilities in **customer analytics, KPI modeling, DAX measures, and business-focused dashboard storytelling** using Power BI.
 
+# 🚗 Project 4: CarInfo – PAN India Motor Insurance Analytics Dashboard  
+
+## 📌 Overview  
+This project delivers an end-to-end **Power BI dashboard** for a PAN-India motor insurance business (CarInfo) with insurer tie-ups including:  
+
+- New India Assurance  
+- National Insurance Company Limited  
+- The Oriental Insurance Company Limited  
+- United India Insurance Company Limited  
+- Bajaj Allianz General Insurance  
+- Liberty General Insurance  
+- Zurich Kotak General Insurance  
+
+The dashboard provides a **360° business view** across sales, premium performance, customer analytics, claims risk, renewals, partner performance, and marketing funnel efficiency.
+
+---
+
+## 📊 Dashboard Structure (7 Pages)
+
+### 📄 1. Executive Summary (CEO View)
+**KPIs:**  
+- Total Policies Sold  
+- Total Premium Collected  
+- Active Policies  
+- Claims Submitted & Approved  
+- Claim Settlement Ratio  
+- Loss Ratio  
+- Renewal Rate  
+- Avg Premium per Policy  
+
+**Visuals:**  
+- Monthly Premium & Policy Trends  
+- Product Mix (Comprehensive vs TP)  
+- Premium by Insurer  
+- PAN India Premium Map  
+
+---
+
+### 📄 2. Sales & Premium Insights
+- Premium by Channel (App / Website / Partner / Aggregator)  
+- Premium by Insurer  
+- Policies by Vehicle Segment (Hatchback / Sedan / SUV / EV)  
+- Top 10 Car Models by Premium  
+- New vs Renewal Trend  
+
+---
+
+### 📄 3. Customer & Vehicle Analytics
+- Age Distribution  
+- Gender Mix  
+- Vehicle Model Distribution  
+- Fuel Type Mix  
+- State-wise Policies  
+
+---
+
+### 📄 4. Claims & Risk Dashboard
+- Claims Funnel (Submitted → Approved → Rejected → Pending)  
+- Claims by Reason  
+- Avg Claim Settlement TAT  
+- Loss Ratio by State  
+- Claim Amount vs IDV  
+
+---
+
+### 📄 5. Partner Performance
+- Partner-wise Premium, Policies, Claim Ratio, TAT  
+- Monthly Contribution Trend  
+- Best Performing Partner  
+- Highest Claim TAT Partner  
+- Highest Loss Ratio Partner  
+
+---
+
+### 📄 6. Renewals & Lapses
+- Monthly Renewal Rate  
+- Renewals by City  
+- Lapsed Policies KPI  
+- Policies Expiring in Next 30 Days  
+
+---
+
+### 📄 7. Marketing Funnel
+- Leads → Quotes → Payments Funnel  
+- Conversion Rate  
+- CAC Trend  
+- Channel-wise Conversion  
+
+---
+
+## 🔍 Key Analytical Capabilities
+- Advanced DAX-based KPI modeling  
+- Renewal & lapse rate tracking  
+- Loss ratio and claim settlement analytics  
+- Partner ranking logic  
+- Geo-spatial and funnel analysis  
+
+---
+
+## 🎯 Business Impact
+- Revenue and channel performance monitoring  
+- Risk and loss management insights  
+- Renewal retention optimization  
+- Partner performance benchmarking  
+- Marketing ROI enhancement  
+
+---
+
+This project showcases strong expertise in **insurance analytics, business KPI modeling, and executive dashboard storytelling using Power BI.**
 
 
 
